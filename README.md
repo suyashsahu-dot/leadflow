@@ -38,8 +38,4 @@ leadflow/
     ├── 2_Outreach_and_Follow_up.py
     ├── 3_Generate_Invoice_&_Contracts.py
     └── 4_Tax_Management.py
-🛠️ Tech Stack
-- Python
-- Streamlit
-- Excel / XLSX
-- AI Automation
+
